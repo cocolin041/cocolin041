@@ -50,7 +50,7 @@
 [website]: https://sihyi.com
 [twitter]: https://twitter.com/cocolin041
 [linkedin]: https://linkedin.com/in/cocosihyilin
-[medium]: https://https://medium.com/@cocolin041
+[medium]: https://medium.com/@cocolin041
 
 [html5]: https://github.com/topics/html5
 [css3]: https://github.com/topics/css

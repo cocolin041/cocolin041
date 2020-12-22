@@ -2,10 +2,13 @@
 
 [![Website](https://img.shields.io/website?label=sihyi.com&style=for-the-badge&url=https%3A%2F%2Fsihyi.com)](https://sihyi.com)
 
-## I'm a Web Developer!!
+## I'm a Web Developer
 
-- 🔥 My passion comes from observing people's needs and solve it through building web tools
-- 🌱 I’m currently learning everything 🤣
+Hi, I'm Coco, a passionate fullStack developer from Taiwan.
+My passion comes from observing people's needs and solve it through building web tools.
+
+- 🔭 I'm currently working on my personal website 
+- 🌱 I’m currently learning Redux
 - 🥅 2021 Goals: Write more medium posts
 - ⚡ Fun fact: I love to play piano
 

@@ -4,7 +4,7 @@
 
 ## I'm a Web Developer
 
-Hi, I'm Coco, a passionate fullStack developer from Taiwan.
+Hi, I'm Coco, a passionate fullStack developer from Taiwan.<br />
 My passion comes from observing people's needs and solve it through building web tools.
 
 - 🔭 I'm currently working on my personal website 

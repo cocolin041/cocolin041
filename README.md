@@ -48,6 +48,7 @@ My passion comes from observing people's needs and solve it through building web
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Clubhouse makes me addicted？](https://medium.com/@cocolin041/why-clubhouse-makes-me-addicted-5437b0aefc81?source=rss-9cbd2af50cff------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---

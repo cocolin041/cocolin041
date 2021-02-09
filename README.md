@@ -7,10 +7,10 @@
 I'm a passionate fullStack developer from Taiwan.<br />
 My passion comes from observing people's needs and solve it through building web tools.
 
-- 🔭 I'm currently working on my personal website 
-- 🌱 I’m currently learning Redux
-- 🥅 2021 Goals: Write more medium posts
-- ⚡ Fun fact: I love to play piano
+- 🔭 I'm currently working on looking for new opportunities
+- 🌱 I’m currently learning Redux and React Hooks
+- 🥅 2021 Goals: Read & Write more tech articles
+- ⚡ Fun fact: I love to social, follow the latest trend of technologies on clubhouse
 
 ### Connect with me:
 
@@ -55,12 +55,10 @@ My passion comes from observing people's needs and solve it through building web
 <summary>:zap: GitHub Stats</summary>
 <img align="left" alt="Coco's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cocolin041&show_icons=true&hide_border=true" />
 
-
 [website]: https://sihyi.com
 [twitter]: https://twitter.com/cocolin041
 [linkedin]: https://linkedin.com/in/cocosihyilin
 [medium]: https://medium.com/@cocolin041
-
 [html5]: https://github.com/topics/html5
 [css3]: https://github.com/topics/css
 [sass]: https://github.com/topics/sass

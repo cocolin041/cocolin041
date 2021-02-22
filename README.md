@@ -7,7 +7,7 @@
 I'm a passionate fullStack developer from Taiwan.<br />
 My passion comes from observing people's needs and solve it through building web tools.
 
-- 🔭 I'm currently working on looking for new opportunities
+- 🔭 I'm currently working on a QRcode reservation system
 - 🌱 I’m currently learning Redux and React Hooks
 - 🥅 2021 Goals: Read & Write more tech articles
 - ⚡ Fun fact: I love to social, follow the latest trend of technologies on clubhouse
@@ -48,7 +48,6 @@ My passion comes from observing people's needs and solve it through building web
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Clubhouse makes me addicted？](https://medium.com/@cocolin041/why-clubhouse-makes-me-addicted-5437b0aefc81?source=rss-9cbd2af50cff------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
